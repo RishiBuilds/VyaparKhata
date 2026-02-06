@@ -40,4 +40,4 @@ VyaparKhata is a modern, GST-compliant billing and accounting web application de
 
 ## 🇮🇳 Made for Indian Businesses
 
-*VyaparKhata is built with ❤️ by [Rishi](https://github.com/RishiBuilds) to empower Indian SMBs with simple, reliable, and compliant accounting software.*
+*VyaparKhata is built with ❤️ by [Rishi](https://github.com/RishiBuilds) to empower Indian SMBs with simple, reliable, and compliant accounting software*
